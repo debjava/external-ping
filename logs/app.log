@@ -1,0 +1,26 @@
+2020-06-08 01:48:16,666 Delete-1     DEBUG    debug message
+2020-06-08 01:48:16,666 Delete-1     INFO     info message
+2020-06-08 01:48:16,666 Delete-1     WARNING  warn message
+2020-06-08 01:48:16,666 Delete-1     ERROR    error message
+2020-06-08 01:48:16,666 Delete-1     CRITICAL critical message
+2020-06-08 01:48:16,666 some.MyDelete1 DEBUG    Check I am in check ...
+2020-06-08 01:48:16,666 some.MyDelete1 INFO     check info message
+2020-06-08 01:48:16,666 some.MyDelete1 WARNING  check warn message
+2020-06-08 01:48:16,666 Delete-1     DEBUG    xxxxxxxxx debug message
+2020-06-08 01:48:16,666 Delete-1     INFO     xxxxxxxxxx info message
+2020-06-08 01:48:16,666 Delete-1     WARNING  xxxxxxxxxxxx warn message
+2020-06-08 01:48:16,666 Delete-1     ERROR    xxxxxxxxxxx error message
+2020-06-08 01:48:16,669 Delete-1     CRITICAL xxxxxxxxx critical message
+2020-06-08 01:49:01 Delete-1     DEBUG    debug message
+2020-06-08 01:49:01 Delete-1     INFO     info message
+2020-06-08 01:49:01 Delete-1     WARNING  warn message
+2020-06-08 01:49:01 Delete-1     ERROR    error message
+2020-06-08 01:49:01 Delete-1     CRITICAL critical message
+2020-06-08 01:49:01 some.MyDelete1 DEBUG    Check I am in check ...
+2020-06-08 01:49:01 some.MyDelete1 INFO     check info message
+2020-06-08 01:49:01 some.MyDelete1 WARNING  check warn message
+2020-06-08 01:49:01 Delete-1     DEBUG    xxxxxxxxx debug message
+2020-06-08 01:49:01 Delete-1     INFO     xxxxxxxxxx info message
+2020-06-08 01:49:01 Delete-1     WARNING  xxxxxxxxxxxx warn message
+2020-06-08 01:49:01 Delete-1     ERROR    xxxxxxxxxxx error message
+2020-06-08 01:49:01 Delete-1     CRITICAL xxxxxxxxx critical message
